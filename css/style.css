@@ -1,19 +1,28 @@
 body {
     font: 20px verdana, arial;
-}
-
-.navbar {
-    background-color:burlywood;
+    color: snow;
 }
 
 #quemSomos {
-    background-color: lightblue;
-    color: snow;
+    background-color: snow;
+    color:black
 }
 
 #parceiros {
-    background-color: rgb(156, 218, 194);
-    color: snow;
+    background-color: firebrick;
+}
+
+#serviços {
+    background-color: snow;
+    color:black;
+}
+
+.navbar {
+    background-color:black;
+}
+
+.nav-link {
+    color:snow;
 }
 
 .margin {
@@ -25,10 +34,22 @@ body {
     width: 400px;
     height: 200px;
     border-radius: 50%;
+    border: 3px solid black;
 }
 
 .col-img {
     width: 200px;
     height: 150px;
     border-radius: 50%;
+    border: 3px solid;
+}
+
+.circleContent {
+    border: 3px solid;
+    width: 150px;
+    height: 150px;
+}
+
+footer {
+    background-color:black;
 }
