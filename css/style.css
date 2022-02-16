@@ -1,0 +1,34 @@
+body {
+    font: 20px verdana, arial;
+}
+
+.navbar {
+    background-color:burlywood;
+}
+
+#quemSomos {
+    background-color: lightblue;
+    color: snow;
+}
+
+#parceiros {
+    background-color: rgb(156, 218, 194);
+    color: snow;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.section_img {
+    width: 400px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.col-img {
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+}
